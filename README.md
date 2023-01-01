@@ -1,6 +1,6 @@
 # Unsupervised Learning Techniques
  
-<h1>Clustering for dataset exploration</h1>
+<h2>Clustering for dataset exploration</h2>
 
 <p>Unsupervised learning can be a powerful tool for exploring and understanding your data. Clustering algorithms can help you identify patterns and relationships within your data that may not be immediately apparent. In this repository, you'll find examples of how to use clustering to discover insights in your data using the <a href="https://scikit-learn.org/stable/modules/clustering.html">scikit-learn</a> library in Python.</p>
 
